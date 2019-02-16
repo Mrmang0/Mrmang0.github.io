@@ -9,6 +9,11 @@ body{
     background: #000;
 }
 
+.sharin-wheel{
+    background: #060606;
+}
+
+
 .wrapper{
     margin: auto;
     text-align: center;
